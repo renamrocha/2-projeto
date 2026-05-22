@@ -1,0 +1,25 @@
+{
+margin: 0;
+padding: 0;
+}
+header{
+display: flex;
+justify-content: space-between;
+align-items: center;
+background-color: cornflowerblue;
+padding: 15px;
+}
+
+h1{
+font-size: 25px;
+color: black;
+}
+nav{
+padding: 10px;
+}
+a{
+text-decoration: none;
+font-size: 20px;
+color: black;
+padding: 10px;
+}
