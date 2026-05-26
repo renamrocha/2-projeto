@@ -1,7 +1,8 @@
-{
+*{
 margin: 0;
 padding: 0;
 }
+
 header{
 display: flex;
 justify-content: space-between;
@@ -22,4 +23,13 @@ text-decoration: none;
 font-size: 20px;
 color: black;
 padding: 10px;
+
 }
+section{
+flex-direction: column;
+}
+.cartao-frente{
+background-color: blue;
+position: absolute;
+}
+
